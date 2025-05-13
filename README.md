@@ -3,6 +3,7 @@ About Me
 
 I am a third-year Computer Science student at Ben-Gurion University, passionate about solving real-world challenges through innovative software solutions. With a strong focus on systems programming and a knack for tackling complex problems, I enjoy creating impactful tools and collaborating with others to make technology accessible and engaging.
 
+
 My Skillset
 Programming Languages
 C, C++, Python, Java, JavaScript, TypeScript, Scheme, SQL, Bash.
@@ -13,11 +14,13 @@ OpenGL (Computer Graphics & Rendering)
 AWS (Cloud Deployment)
 Git (Version Control)
 Maven (Build Automation)
+
 💡 Core Strengths
 Strong understanding of algorithms and data structures.
 Experience with both low-level programming (e.g., memory management) and high-level application design.
 Adept at making complex concepts interactive and intuitive.
 Connect With Me
+
 📫 Let’s Collaborate!
 LinkedIn: Amir Masarwa
 GitHub: Amir-Masarwa
